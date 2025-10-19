@@ -45,7 +45,7 @@ python app.py
 
 ## 🎥 Live Demo
 
-Try it yourself on [🎈 Hugging Face Space](https://huggingface.co/PJ2005/chat-mood-analyzer-ultimate)
+Try it yourself on [🎈 Hugging Face Space]([https://huggingface.co/PJ2005/chat-mood-analyzer-ultimate](https://huggingface.co/spaces/PJ2005/chat-mood-analyzer-ultimate))
 
 ---
 
