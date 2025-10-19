@@ -1,0 +1,8 @@
+gradio
+transformers
+pandas
+matplotlib
+scikit-learn
+plotly
+emoji
+langdetect
